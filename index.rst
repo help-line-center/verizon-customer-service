@@ -4,7 +4,7 @@ Verizon FiOS Customer Service Phone Number for 24-Hour Support
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="tel:1-800-837-4966" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly92ZXJpem9uY3VzdG9tZXJoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Call Verizon Customer Service Now
         </a>
     </div>
@@ -88,7 +88,7 @@ If you're facing a problem with your internet, TV, or phone services, don’t wa
         <a href="tel:1-800-837-4966" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             📞 Call 1-800-837-4966
         </a>
-        <a href="https://www.verizon.com/support/residential/contact-us/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly92ZXJpem9uY3VzdG9tZXJoZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             💬 Verizon Support Website
         </a>
         <a href="https://www.verizon.com/support/residential/contact-us/live-chat/" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
