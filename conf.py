@@ -41,7 +41,7 @@ html_short_title = "FiOS 24/7 Support Info"
 html_favicon = 'favicon.ico'
 
 # Use a clean and readable theme
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
 
 # Hide "View page source"
 html_show_sourcelink = False
