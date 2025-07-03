@@ -56,5 +56,5 @@ html_theme_options = {
 }
 
 # Uncomment if you use static files or templates
-# templates_path = ['_templates']
+templates_path = ['_templates']
 # html_static_path = ['_static']
